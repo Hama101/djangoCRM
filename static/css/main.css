@@ -1,0 +1,24 @@
+
+#logo{
+   
+}
+    body{
+        background-color:  	#dddddd;
+    }
+    #total-orders{
+        background-color: #9adcf7;
+    }
+    #orders-delivered{
+        background-color: #9adcf7;
+    }
+    #orders-pending{
+        background-color: #9adcf7;
+    }
+#logo1{
+    width: 7%;
+    height: 5%;
+}
+.object{
+    background-image: linear-gradient(to right, rgb(46, 196, 182,0), rgb(46, 196, 182,1), rgba(46, 196, 182,0)); border-color: #a6aa9b; border-style:solid; font-style: italic; font-family: Marker Felt, fantasy;
+            border-width: 2px; border-radius: 10px; width: 200px;; margin:auto; text-align:center;
+} 

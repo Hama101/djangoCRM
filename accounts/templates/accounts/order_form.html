@@ -1,0 +1,11 @@
+{% extends 'accounts/main.html' %}
+{% load static %}
+{% block content %}
+<form action="" method="POST">
+    {% csrf_token %}
+    {{form}}  <!--called from views.py-->
+    <input type="submit" name="Submit">
+</form>
+
+
+{% endblock %}
